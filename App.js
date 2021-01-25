@@ -5,8 +5,8 @@ const HelloWorldApp = () => {
   return(
     <View style={{
        flex:1,        //Fill item in available space.
-       justifyContent:'centre',         //align children of container in the centre of container's main axis.
-       alignItems:'center'              //align children of container in the centre of container's cross axis.
+       justifyContent:'center',         //align children of container in the center of container's main axis.
+       alignItems:'center'              //align children of container in the center of container's cross axis.
     }}>
        <Text>Hello</Text>
     </View>
